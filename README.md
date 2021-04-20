@@ -13,6 +13,7 @@ https://github.com/opencv/opencv_contrib/tree/master/modules/aruco/misc/pattern_
 https://nikatsanka.github.io/camera-calibration-using-opencv-and-python.html
 
 ---
+:wavy_dash:	:wavy_dash:	:wavy_dash:	:wavy_dash:	:wavy_dash:	:wavy_dash:	:wavy_dash:
 ## Calibration Pattern Generator
 
 ### Pattern Generator from calib.io
