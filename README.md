@@ -1,6 +1,6 @@
 # CameraCalibrationGuide
 
-
+-------------------------------------------------------------------------------
 
 # Camera Calibration Tools
 
@@ -13,7 +13,7 @@ https://github.com/opencv/opencv_contrib/tree/master/modules/aruco/misc/pattern_
 # Camera Calibration Using OpenCV and Python [OpenCV, Python]
 https://nikatsanka.github.io/camera-calibration-using-opencv-and-python.html
 
-
+-------------------------------------------------------------------------------
 
 # Calibration Pattern Generator
 
@@ -27,3 +27,5 @@ https://github.com/ProximaB/Camera-Calibration-Pattern-Generator
 
 # opencv_contrib/modules/aruco/samples/ [OpenCV, Cpp]
 https://github.com/opencv/opencv_contrib/tree/master/modules/aruco/samples
+
+-------------------------------------------------------------------------------
