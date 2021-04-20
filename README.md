@@ -12,6 +12,10 @@ https://github.com/opencv/opencv_contrib/tree/master/modules/aruco/misc/pattern_
 ### Camera Calibration Using OpenCV and Python [OpenCV, Python]
 https://nikatsanka.github.io/camera-calibration-using-opencv-and-python.html
 
+### BoofCV Computer Vision [Android, Java]
+Camera Calibration (chessboard, circles, squares), desktop applications with Java.
+https://boofcv.org/index.php?title=Applications#Camera_Calibration
+
 ---
 ## Calibration Pattern Generator
 
