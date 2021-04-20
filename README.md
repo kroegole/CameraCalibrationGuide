@@ -1,7 +1,6 @@
 # CameraCalibrationGuide
 
 -------------------------------------------------------------------------------
-
 # Camera Calibration Tools
 
 # MRT Camera Calibration Toolbox [OpenCV, Python]
@@ -14,7 +13,6 @@ https://github.com/opencv/opencv_contrib/tree/master/modules/aruco/misc/pattern_
 https://nikatsanka.github.io/camera-calibration-using-opencv-and-python.html
 
 -------------------------------------------------------------------------------
-
 # Calibration Pattern Generator
 
 # Pattern Generator from calib.io
