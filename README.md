@@ -7,6 +7,7 @@
 https://github.com/MT-MRT/MRT-Camera-Calibration-Toolbox
 
 ![](https://github.com/MT-MRT/MRT-Camera-Calibration-Toolbox/blob/master/docs/example_single_chessboard.gif | width=50)
+<img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="300" />
 
 ### OpenCVMarkerPrinter [OpenCV, Python]
 https://github.com/opencv/opencv_contrib/tree/master/modules/aruco/misc/pattern_generator
