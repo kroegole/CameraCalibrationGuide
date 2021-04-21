@@ -6,7 +6,7 @@
 ### MRT Camera Calibration Toolbox [OpenCV, Python]
 https://github.com/MT-MRT/MRT-Camera-Calibration-Toolbox
 
-<img src="https://github.com/MT-MRT/MRT-Camera-Calibration-Toolbox/blob/master/docs/example_single_chessboard.gif" width="500" />
+<img src="https://github.com/MT-MRT/MRT-Camera-Calibration-Toolbox/blob/master/docs/example_single_chessboard.gif" width="450" />
 
 ### OpenCVMarkerPrinter [OpenCV, Python]
 https://github.com/opencv/opencv_contrib/tree/master/modules/aruco/misc/pattern_generator
@@ -20,7 +20,7 @@ https://mecaruco2.readthedocs.io/en/latest/notebooks_rst/Aruco/Projet+calibratio
 ### Camera Calibration with GUI [OpenCV, Cpp]
 https://github.com/erickTornero/Camera-Calibration
 
-![](https://github.com/erickTornero/Camera-Calibration/blob/master/sample_calibration.gif)
+<img src="https://github.com/erickTornero/Camera-Calibration/blob/master/sample_calibration.gif" width="450" />
 
 ### BoofCV Computer Vision [Android, Java]
 Camera Calibration (chessboard, circles, squares), desktop applications with Java.
