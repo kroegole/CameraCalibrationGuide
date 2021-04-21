@@ -15,6 +15,9 @@ https://nikatsanka.github.io/camera-calibration-using-opencv-and-python.html
 ### Projet+calibration-Paul.ipynb
 https://mecaruco2.readthedocs.io/en/latest/notebooks_rst/Aruco/Projet+calibration-Paul.html
 
+### Camera Calibration with GUI [OpenCV, Cpp]
+https://github.com/erickTornero/Camera-Calibration
+
 ### BoofCV Computer Vision [Android, Java]
 Camera Calibration (chessboard, circles, squares), desktop applications with Java.
 https://boofcv.org/index.php?title=Applications#Camera_Calibration
