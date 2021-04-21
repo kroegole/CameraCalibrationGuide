@@ -17,6 +17,7 @@ https://mecaruco2.readthedocs.io/en/latest/notebooks_rst/Aruco/Projet+calibratio
 
 ### Camera Calibration with GUI [OpenCV, Cpp]
 https://github.com/erickTornero/Camera-Calibration
+![](https://github.com/erickTornero/Camera-Calibration/blob/master/sample_calibration.gif)
 
 ### BoofCV Computer Vision [Android, Java]
 Camera Calibration (chessboard, circles, squares), desktop applications with Java.
